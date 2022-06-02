@@ -1,0 +1,1086 @@
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.csprojResolveAssemblyReference.cache
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.RadForm1.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.Properties.Resources.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.csproj.GenerateResource.Cache
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.DataBaseConfig.Frm_ConfigDataBase.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.DataBaseConfig.Frm_Resaux.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.DataBaseConfig.Frm_SauvDB.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.DataBaseConfig.Frm_Serveur.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.Frm_ReportViewer.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_ConfigCheminProfil.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_Connexion.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_ExpirationLicence.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_JournalConnexionParUtilisateur.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursDroits.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursProfils.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_ModifierMotDePasse.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_Securite.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.GestionUtilisateur.Frm_UserManager.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.Frm_Menu.resources
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.exe.licenses
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\LGG.UI.exe.config
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\LGG.UI.exe
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\LGG.UI.pdb
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\EQATEC.Analytics.Monitor.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\LGG.Business.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\LGG.DataAccess.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Analytics.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.ChartView.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.GridView.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.PdfViewer.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.PivotGrid.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadChart.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadDiagram.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadDock.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RichTextBox.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Scheduler.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.SpellChecker.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.UI.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Core.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Flow.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Maths.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Zip.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\TelerikCommon.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\TelerikData.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\TelerikExport.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\LGG.Business.pdb
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\LGG.DataAccess.pdb
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Analytics.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.ChartView.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.GridView.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.PdfViewer.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.PivotGrid.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadChart.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadDiagram.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadDock.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RichTextBox.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.Scheduler.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.SpellChecker.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.WinControls.UI.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Core.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Flow.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Maths.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\Telerik.Windows.Zip.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\TelerikData.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\bin\Debug\TelerikExport.xml
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.exe
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET OPCCIEL\GEOFFROY\GESCOMPTA\LGG.UI\bin\Debug\LGG.UI.exe.config
+E:\FORMATION BOURSE\TACHE ET PROJET OPCCIEL\GEOFFROY\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.exe
+E:\FORMATION BOURSE\TACHE ET PROJET OPCCIEL\GEOFFROY\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESCOMPTA\Projet\GESCOMPTA\LGG.UI\bin\Debug\LGG.UI.exe.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESCOMPTA\Projet\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.exe
+E:\FORMATION BOURSE\TACHE ET PROJET GESCOMPTA\Projet\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.UI\bin\Debug\LGG.UI.exe.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.exe
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.UI\obj\x86\Debug\LGG.UI.csprojResolveAssemblyReference.cache
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\EQATEC.Analytics.Monitor.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Analytics.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.GridView.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RichTextBox.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Scheduler.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.SpellChecker.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.UI.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Maths.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Zip.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\TelerikCommon.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\TelerikData.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\TelerikExport.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Analytics.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.GridView.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RichTextBox.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.SpellChecker.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.UI.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Maths.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Zip.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\TelerikData.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\TelerikExport.xml
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_ConfigDataBase.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGCUI.DataBaseConfig.Frm_Resaux.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_SauvDB.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_Menu.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_ReportViewer.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ConfigCheminProfil.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Connexion.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ExpirationLicence.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_JournalConnexionParUtilisateur.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursDroits.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ModifierMotDePasse.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Securite.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_UserManager.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_FormeJuridique.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Langue.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Pays.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Personne.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteurActivite.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.RadForm1.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csproj.GenerateResource.Cache
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_Serveur.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Properties.Resources.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.UI.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.Business.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.Business.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe.licenses
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_CategorieIntrant.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteursBiologique.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypePrelevement.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_UniteMesure.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TrancheAgePatient.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Intrants.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParamCodeBarre.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Societe.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Analyse.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_CommandeFrs.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_Livraison.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_EntreSortieStock.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAssurance.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementAssurance.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementClient.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementPartenaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAnalyse.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAssurances.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePartenaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePatient.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_ResultatDemande.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_PaiementRistournes.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AddParametreAnalyseResultat.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_VerificationResultat.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_PrelevementAnalyseDemande.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FactureAssureur.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFacturePourRistourne.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CodeBarre.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DestockageAnalyse.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeDemande.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Crystal.TR_ResultatDemande.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeTube.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csprojResolveAssemblyReference.cache
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_ResultatDemandeImp.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_AutreEntreSortie.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StockIntrant.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParametrageInterpretationParametre.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureFournisseur.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementFournisseur.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeCommande.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AnnulationDemandes.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFournisseur.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Inventaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_TypeInventaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StatistiquesCaisse.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAssurance.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreEntree.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreSortie.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseFournisseur.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePartenaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePatient.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRecettes.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRistourne.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FicheInventaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FichePreInventaire.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeIntrant.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseDepense.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseTOUT.resources
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_AlerteIntrant.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe.config
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.UI.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\EQATEC.Analytics.Monitor.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.Business.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_ConfigDataBase.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGCUI.DataBaseConfig.Frm_Resaux.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_SauvDB.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_Serveur.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_AlerteIntrant.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_ResultatDemandeImp.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StatistiquesCaisse.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StockIntrant.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_Menu.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_ReportViewer.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_AutreEntreSortie.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAssurance.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureFournisseur.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_PaiementRistournes.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementAssurance.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementClient.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementFournisseur.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementPartenaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DestockageAnalyse.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_PrelevementAnalyseDemande.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_ResultatDemande.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_VerificationResultat.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_CommandeFrs.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_EntreSortieStock.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Inventaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_Livraison.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ConfigCheminProfil.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Connexion.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ExpirationLicence.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_JournalConnexionParUtilisateur.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursDroits.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ModifierMotDePasse.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Securite.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_UserManager.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CodeBarre.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FactureAssureur.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FicheInventaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FichePreInventaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Crystal.TR_ResultatDemande.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAssurance.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreEntree.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreSortie.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseDepense.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseFournisseur.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePartenaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePatient.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRecettes.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRistourne.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseTOUT.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AddParametreAnalyseResultat.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Analyse.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_CategorieIntrant.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_FormeJuridique.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Intrants.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Langue.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAnalyse.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAssurances.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeCommande.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeDemande.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AnnulationDemandes.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFacturePourRistourne.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFournisseur.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeIntrant.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePartenaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePatient.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParamCodeBarre.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParametrageInterpretationParametre.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Pays.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Personne.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteurActivite.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteursBiologique.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Societe.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TrancheAgePatient.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_TypeInventaire.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypePrelevement.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeTube.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_UniteMesure.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.RadForm1.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Properties.Resources.resources
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csproj.GenerateResource.Cache
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe.licenses
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.Database.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.StackExchangeRedis.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Data.Schema.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Service.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.HttpClient.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.ServiceStack.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.WebApi.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.WebServiceDataSource.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.ReportViewer.Silverlight.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Newtonsoft.Json.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\System.Web.Http.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.Database.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.Database.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.StackExchangeRedis.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.StackExchangeRedis.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Service.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Service.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.ServiceStack.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.ServiceStack.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.WebApi.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.WebApi.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.WebServiceDataSource.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.WebServiceDataSource.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.ReportViewer.Silverlight.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\Telerik.ReportViewer.Silverlight.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\System.Web.Http.xml
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\fr\System.Web.Http.resources.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.Business.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csprojResolveAssemblyReference.cache
+G:\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe.config
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.pdb
+G:\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe
+G:\GESLAB\LGC.UI\bin\Debug\LGC.UI.pdb
+G:\GESLAB\LGC.UI\bin\Debug\EQATEC.Analytics.Monitor.dll
+G:\GESLAB\LGC.UI\bin\Debug\LGC.Business.dll
+G:\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.Database.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.StackExchangeRedis.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Data.Schema.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Service.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.HttpClient.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.ServiceStack.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.WebApi.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.WebServiceDataSource.dll
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.ReportViewer.Silverlight.dll
+G:\GESLAB\LGC.UI\bin\Debug\Newtonsoft.Json.dll
+G:\GESLAB\LGC.UI\bin\Debug\System.Net.Http.Formatting.dll
+G:\GESLAB\LGC.UI\bin\Debug\System.Web.Http.dll
+G:\GESLAB\LGC.UI\bin\Debug\LGC.Business.pdb
+G:\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.Database.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.Database.xml
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.StackExchangeRedis.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Cache.StackExchangeRedis.xml
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Service.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Service.xml
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.ServiceStack.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.ServiceStack.xml
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.WebApi.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.Services.WebApi.xml
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.WebServiceDataSource.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.WebServiceDataSource.xml
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.ReportViewer.Silverlight.pdb
+G:\GESLAB\LGC.UI\bin\Debug\Telerik.ReportViewer.Silverlight.xml
+G:\GESLAB\LGC.UI\bin\Debug\System.Net.Http.Formatting.xml
+G:\GESLAB\LGC.UI\bin\Debug\System.Web.Http.xml
+G:\GESLAB\LGC.UI\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+G:\GESLAB\LGC.UI\bin\Debug\fr\System.Web.Http.resources.dll
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csprojResolveAssemblyReference.cache
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_ConfigDataBase.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGCUI.DataBaseConfig.Frm_Resaux.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_SauvDB.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_Serveur.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_AlerteIntrant.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_ResultatDemandeImp.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StatistiquesCaisse.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StockIntrant.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_Menu.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_ReportViewer.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_AutreEntreSortie.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAssurance.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureFournisseur.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_PaiementRistournes.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementAssurance.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementClient.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementFournisseur.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementPartenaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DestockageAnalyse.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_PrelevementAnalyseDemande.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_ResultatDemande.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_VerificationResultat.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_CommandeFrs.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_EntreSortieStock.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Inventaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_Livraison.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ConfigCheminProfil.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Connexion.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ExpirationLicence.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_JournalConnexionParUtilisateur.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursDroits.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ModifierMotDePasse.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Securite.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_UserManager.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CodeBarre.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FactureAssureur.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FicheInventaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FichePreInventaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Crystal.TR_ResultatDemande.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAssurance.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreEntree.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreSortie.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseDepense.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseFournisseur.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePartenaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePatient.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRecettes.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRistourne.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseTOUT.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AddParametreAnalyseResultat.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Analyse.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_CategorieIntrant.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_FormeJuridique.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Intrants.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Langue.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAnalyse.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAssurances.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeCommande.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeDemande.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AnnulationDemandes.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFacturePourRistourne.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFournisseur.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeIntrant.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePartenaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePatient.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParamCodeBarre.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParametrageInterpretationParametre.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Pays.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Personne.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteurActivite.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteursBiologique.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Societe.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TrancheAgePatient.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeCoffret.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_TypeInventaire.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypePrelevement.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeTube.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_UniteMesure.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.RadForm1.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Properties.Resources.resources
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csproj.GenerateResource.Cache
+G:\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe.licenses
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe.config
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\EQATEC.Analytics.Monitor.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.Business.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\QRCoder.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.UI.Design.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Zip.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikData.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikExport.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\System.Web.Http.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\System.Net.Http.Formatting.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Newtonsoft.Json.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.Business.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Zip.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikData.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikExport.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\System.Web.Http.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\System.Net.Http.Formatting.xml
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\fr\System.Web.Http.resources.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csprojResolveAssemblyReference.cache
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_ConfigDataBase.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGCUI.DataBaseConfig.Frm_Resaux.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_SauvDB.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_Serveur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_AlerteIntrant.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_EtatRecapPrestationsCentre.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_ListeAnalyseParSecteur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_ListePatientsByPartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointAnalyseQteMt.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointEncaissement.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointFactureNormalisee.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointPeriodique.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_ResultatDemandeImp.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StatistiquesCaisse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StockIntrant.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_Menu.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_ReportViewer.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_AutreEntreSortie.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAssurance.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAutrePartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureFournisseur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_PaiementRistournes.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementAssurance.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementClient.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementFournisseur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementPartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse1.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DestockageAnalyse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ModeleDemandeAnalyse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_PrelevementAnalyseDemande.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_RecalculDemande.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_ResultatDemande.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_VerificationResultat.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.RadForm1.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_CommandeFrs.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_EntreSortieStock.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Inventaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_Livraison.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ConfigCheminProfil.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Connexion.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ExpirationLicence.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_JournalConnexionParUtilisateur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursDroits.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ModifierMotDePasse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_RestoreDB.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Securite.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_UserManager.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CodeBarre.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CreancePeriodique.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_EtatRecapPrestationsCentre.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture1.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture2.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture3.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FactureAssureur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire1.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaireSimplifiee.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FicheInventaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FichePreInventaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_ListeAnalyseParSecteur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_ListePatientsByPartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointAnalyseQteMt.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointDesRistournes.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointEncaissement.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointFActureNormalisees.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Crystal.TR_PointPeriodique.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Crystal.TR_PointPeriodiqueSansAnalyse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Recu.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Crystal.TR_ResultatDemande.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAssurance.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreEntree.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreSortie.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseDepense.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseFournisseur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePatient.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRecettes.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRistourne.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseTOUT.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AddParametreAnalyseResultat.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Analyse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_AnalyseSimplifie.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Antibiotiques.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_CategorieIntrant.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ConfigSaveRestoreDB.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_FormeJuridique.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Intrants.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Langue.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAnalyse.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAssurances.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeCommande.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeDemande.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AnnulationDemandes.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFacturePourRistourne.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFournisseur.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeIntrant.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePartenaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePatient.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ModeleResultat.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParamCodeBarre.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParametrageInterpretationParametre.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Pays.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Personne.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteurActivite.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteursBiologique.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Societe.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TrancheAgePatient.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeCoffret.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_TypeInventaire.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypePrelevement.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeTube.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_UniteMesure.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.RadForm1.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Properties.Resources.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csproj.GenerateResource.Cache
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe.licenses
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaireVisualiser.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_PointFactureAnnulees_Clt.resources
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_PointFactureAnnulees_Part.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe.config
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csprojResolveAssemblyReference.cache
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_ConfigDataBase.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGCUI.DataBaseConfig.Frm_Resaux.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_SauvDB.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_Serveur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_AlerteIntrant.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_EtatRecapPrestationsCentre.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_ListeAnalyseParSecteur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_ListePatientsByPartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointAnalyseQteMt.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointEncaissement.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_PointFactureAnnulees_Clt.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_PointFactureAnnulees_Part.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointFactureNormalisee.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointPeriodique.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_ResultatDemandeImp.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StatistiquesCaisse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StockIntrant.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_Menu.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_ReportViewer.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_AutreEntreSortie.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAssurance.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAutrePartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureFournisseur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaireVisualiser.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_PaiementRistournes.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementAssurance.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementClient.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementFournisseur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementPartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse1.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DestockageAnalyse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ModeleDemandeAnalyse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_PrelevementAnalyseDemande.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_RecalculDemande.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_ResultatDemande.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_VerificationResultat.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.RadForm1.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_CommandeFrs.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_EntreSortieStock.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Inventaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_Livraison.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ConfigCheminProfil.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Connexion.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ExpirationLicence.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_JournalConnexionParUtilisateur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursDroits.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ModifierMotDePasse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_RestoreDB.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Securite.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_UserManager.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CodeBarre.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CreancePeriodique.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_EtatRecapPrestationsCentre.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture1.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture2.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture3.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FactureAssureur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire1.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaireSimplifiee.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FicheInventaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FichePreInventaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_ListeAnalyseParSecteur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_ListePatientsByPartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointAnalyseQteMt.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointDesRistournes.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointEncaissement.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointFActureNormalisees.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Crystal.TR_PointPeriodique.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Crystal.TR_PointPeriodiqueSansAnalyse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Recu.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Crystal.TR_ResultatDemande.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAssurance.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreEntree.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreSortie.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseDepense.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseFournisseur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePatient.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRecettes.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRistourne.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseTOUT.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AddParametreAnalyseResultat.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Analyse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_AnalyseSimplifie.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Antibiotiques.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_CategorieIntrant.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ConfigSaveRestoreDB.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_FormeJuridique.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Intrants.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Langue.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAnalyse.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAssurances.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeCommande.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeDemande.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AnnulationDemandes.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFacturePourRistourne.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFournisseur.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeIntrant.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePartenaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePatient.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ModeleResultat.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParamCodeBarre.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParametrageInterpretationParametre.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Pays.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Personne.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteurActivite.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteursBiologique.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Societe.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TrancheAgePatient.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeCoffret.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_TypeInventaire.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypePrelevement.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeTube.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_UniteMesure.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.RadForm1.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Properties.Resources.resources
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csproj.GenerateResource.Cache
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe.licenses
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\EQATEC.Analytics.Monitor.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.Business.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.UI.Design.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Zip.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikData.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikExport.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Newtonsoft.Json.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.Business.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Zip.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikData.xml
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikExport.xml
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe.config
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.exe
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.UI.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\EQATEC.Analytics.Monitor.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.Business.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.WinControls.UI.Design.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Windows.Zip.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikData.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\TelerikExport.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Newtonsoft.Json.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.Business.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\bin\Debug\Telerik.Reporting.xml
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csprojResolveAssemblyReference.cache
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_ConfigDataBase.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGCUI.DataBaseConfig.Frm_Resaux.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_SauvDB.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.DataBaseConfig.Frm_Serveur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_AlerteIntrant.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_EtatRecapPrestationsCentre.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_ListeAnalyseParSecteur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_ListePatientsByPartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointAnalyseQteMt.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointEncaissement.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_PointFactureAnnulees_Clt.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_PointFactureAnnulees_Part.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointFactureNormalisee.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Impressions.Frm_PointPeriodique.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_ResultatDemandeImp.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StatistiquesCaisse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.FormulaireEtat.Frm_StockIntrant.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_Menu.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Frm_ReportViewer.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_AutreEntreSortie.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAssurance.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureAutrePartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FactureFournisseur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_FacturePartenaireVisualiser.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_PaiementRistournes.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementAssurance.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementClient.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementFournisseur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.GestionDeLaCaisse.Frm_ReglementPartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DemandeAnalyse1.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_DestockageAnalyse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ModeleDemandeAnalyse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_PrelevementAnalyseDemande.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_RecalculDemande.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_ResultatDemande.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.Frm_VerificationResultat.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDesAnalyses.RadForm1.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_CommandeFrs.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_EntreSortieStock.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Inventaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionDeStock.Frm_Livraison.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ConfigCheminProfil.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Connexion.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ExpirationLicence.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_JournalConnexionParUtilisateur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ListeUtilisateurAvecLeursDroits.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_ModifierMotDePasse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_RestoreDB.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_Securite.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.GestionUtilisateur.Frm_UserManager.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CodeBarre.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_CreancePeriodique.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_EtatRecapPrestationsCentre.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture1.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture2.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Facture3.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FactureAssureur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaire1.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_FacturePartenaireSimplifiee.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FicheInventaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impression.TR_FichePreInventaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_ListeAnalyseParSecteur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_ListePatientsByPartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointAnalyseQteMt.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointDesRistournes.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointEncaissement.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_PointFActureNormalisees.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Crystal.TR_PointPeriodique.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGO.UI.Crystal.TR_PointPeriodiqueSansAnalyse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_Recu.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Crystal.TR_ResultatDemande.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAssurance.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreEntree.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseAutreSortie.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseDepense.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseFournisseur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaissePatient.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRecettes.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseRistourne.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Impressions.TR_StatistiqueCaisseTOUT.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AddParametreAnalyseResultat.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Analyse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_AnalyseSimplifie.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Antibiotiques.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_CategorieIntrant.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ConfigSaveRestoreDB.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_FormeJuridique.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Intrants.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Langue.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAnalyse.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeAssurances.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeCommande.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeDemande.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_AnnulationDemandes.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFacturePourRistourne.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeFournisseur.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListeIntrant.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePartenaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_ListePatient.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ModeleResultat.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParamCodeBarre.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_ParametrageInterpretationParametre.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Pays.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Personne.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteurActivite.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_SecteursBiologique.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_Societe.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TrancheAgePatient.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeCoffret.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGG.UI.Parametre.Frm_TypeInventaire.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypePrelevement.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_TypeTube.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Parametre.Frm_UniteMesure.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.RadForm1.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.Properties.Resources.resources
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.csproj.GenerateResource.Cache
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.UI\obj\x86\Debug\LGC.UI.exe.licenses

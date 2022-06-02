@@ -1,0 +1,1617 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D5D28E6-79B6-49E9-9F8D-1266C73FA258}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LGC.UI</RootNamespace>
+    <AssemblyName>LGC.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EQATEC.Analytics.Monitor, Version=3.2.1.0, Culture=neutral, PublicKeyToken=213c7c68adb58a17, processorArchitecture=MSIL">
+      <HintPath>..\lib\RCWF\2015.3.1104.40\EQATEC.Analytics.Monitor.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="QRCoder">
+      <HintPath>..\..\..\..\..\Mes Projets Hors taf\DM COSMETIKA\FactureNprmalisee\UI\bin\Debug\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Documents.SpreadsheetStreaming, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Adomd, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Adomd.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Cache.Database, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Cache.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Cache.StackExchangeRedis, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Cache.StackExchangeRedis.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Data.Schema, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Data.Schema.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Reporting.OpenXmlRendering, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.OpenXmlRendering.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting.OpenXmlRendering.2.7.2, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.OpenXmlRendering.2.7.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Service, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Services.HttpClient, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Services.HttpClient.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Services.ServiceStack, Version=13.1.19.618, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Services.ServiceStack.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Reporting.Services.WebApi, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.Services.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Reporting.WebServiceDataSource, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.WebServiceDataSource.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.Reporting.XpsRendering, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Reporting.XpsRendering.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.Html5.WebForms, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.ReportViewer.Html5.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.Mvc, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.ReportViewer.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.Silverlight, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.ReportViewer.Silverlight.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.WebForms, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.WinForms, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.Wpf, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.ReportViewer.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.Wpf.Themes, Version=13.1.19.618, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.ReportViewer.Wpf.Themes.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.ChartView, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.ChartView.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.GridView, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.PdfViewer, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.PdfViewer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.PivotGrid, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.PivotGrid.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RadChart, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.RadChart.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RadDiagram, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.RadDiagram.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RadDock, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.RadDock.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RadMap, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.RadMap.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RadMarkupEditor, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RadSpreadsheet, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.RichTextEditor, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Scheduler, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Scheduler.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.SpellChecker, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.SpellChecker.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Aqua, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Aqua.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Breeze, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Crystal, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Crystal.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Desert, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Desert.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Fluent, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Fluent.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.FluentDark, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.HighContrastBlack, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Material, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Material.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.MaterialBlueGrey, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.MaterialPink, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.MaterialTeal, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Office2007Black, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Office2007Silver, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Office2010Black, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Office2010Blue, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Office2010Silver, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Office2013Dark, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Office2013Light, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.TelerikMetro, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.TelerikMetroBlue, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.TelerikMetroTouch, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.VisualStudio2012Dark, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.VisualStudio2012Light, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Windows7, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.Themes.Windows8, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.Themes.Windows8.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI.Design, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.WinControls.UI.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Core, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Documents.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Fixed, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Documents.Fixed.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Flow, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Documents.Flow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Flow.FormatProviders.Pdf, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Spreadsheet, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.Windows.Zip, Version=2019.2.612.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\Telerik.Windows.Zip.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TelerikCommon, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikData, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\TelerikData.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TelerikExport, Version=2019.2.618.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\TelerikExport.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TelerikProviderForGoogleAnalytics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\SCHOOL\NEW\SCHOOL\LGS.UI\bin\Debug\TelerikProviderForGoogleAnalytics.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBaseConfig\Frm_ConfigDataBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBaseConfig\Frm_ConfigDataBase.Designer.cs">
+      <DependentUpon>Frm_ConfigDataBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseConfig\Frm_Resaux.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBaseConfig\Frm_Resaux.designer.cs">
+      <DependentUpon>Frm_Resaux.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseConfig\Frm_SauvDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBaseConfig\Frm_SauvDB.Designer.cs">
+      <DependentUpon>Frm_SauvDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseConfig\Frm_Serveur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBaseConfig\Frm_Serveur.designer.cs">
+      <DependentUpon>Frm_Serveur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DragAndDropRadGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_AlerteIntrant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_AlerteIntrant.Designer.cs">
+      <DependentUpon>Frm_AlerteIntrant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_EtatRecapPrestationsCentre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_EtatRecapPrestationsCentre.Designer.cs">
+      <DependentUpon>Frm_EtatRecapPrestationsCentre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_ListeAnalyseParSecteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_ListeAnalyseParSecteur.Designer.cs">
+      <DependentUpon>Frm_ListeAnalyseParSecteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_ListePatientsByPartenaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_ListePatientsByPartenaire.Designer.cs">
+      <DependentUpon>Frm_ListePatientsByPartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointAnalyseQteMt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointAnalyseQteMt.Designer.cs">
+      <DependentUpon>Frm_PointAnalyseQteMt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointEncaissement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointEncaissement.Designer.cs">
+      <DependentUpon>Frm_PointEncaissement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointFactureAnnulees_Clt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointFactureAnnulees_Clt.Designer.cs">
+      <DependentUpon>Frm_PointFactureAnnulees_Clt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointFactureAnnulees_Part.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointFactureAnnulees_Part.Designer.cs">
+      <DependentUpon>Frm_PointFactureAnnulees_Part.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointFactureNormalisee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointFactureNormalisee.Designer.cs">
+      <DependentUpon>Frm_PointFactureNormalisee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointPeriodique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_PointPeriodique.Designer.cs">
+      <DependentUpon>Frm_PointPeriodique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_ResultatDemandeImp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_ResultatDemandeImp.Designer.cs">
+      <DependentUpon>Frm_ResultatDemandeImp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_StatistiquesCaisse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_StatistiquesCaisse.Designer.cs">
+      <DependentUpon>Frm_StatistiquesCaisse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_StockIntrant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaireEtat\Frm_StockIntrant.Designer.cs">
+      <DependentUpon>Frm_StockIntrant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrenchRadGridLocalizationProvider.cs" />
+    <Compile Include="FrenchRadWizardLocalizationProvider.cs" />
+    <Compile Include="Frm_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Menu.Designer.cs">
+      <DependentUpon>Frm_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ReportViewer.Designer.cs">
+      <DependentUpon>Frm_ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_AutreEntreSortie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_AutreEntreSortie.Designer.cs">
+      <DependentUpon>Frm_AutreEntreSortie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FactureAssurance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FactureAssurance.Designer.cs">
+      <DependentUpon>Frm_FactureAssurance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FactureAutrePartenaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FactureAutrePartenaire.Designer.cs">
+      <DependentUpon>Frm_FactureAutrePartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FactureFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FactureFournisseur.Designer.cs">
+      <DependentUpon>Frm_FactureFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FacturePartenaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FacturePartenaire.Designer.cs">
+      <DependentUpon>Frm_FacturePartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FacturePartenaireVisualiser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_FacturePartenaireVisualiser.Designer.cs">
+      <DependentUpon>Frm_FacturePartenaireVisualiser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_PaiementRistournes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_PaiementRistournes.Designer.cs">
+      <DependentUpon>Frm_PaiementRistournes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementAssurance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementAssurance.Designer.cs">
+      <DependentUpon>Frm_ReglementAssurance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementClient.Designer.cs">
+      <DependentUpon>Frm_ReglementClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementFournisseur.Designer.cs">
+      <DependentUpon>Frm_ReglementFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementPartenaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\Frm_ReglementPartenaire.Designer.cs">
+      <DependentUpon>Frm_ReglementPartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_DemandeAnalyse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_DemandeAnalyse.Designer.cs">
+      <DependentUpon>Frm_DemandeAnalyse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_DemandeAnalyse1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_DemandeAnalyse1.Designer.cs">
+      <DependentUpon>Frm_DemandeAnalyse1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_DestockageAnalyse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_DestockageAnalyse.Designer.cs">
+      <DependentUpon>Frm_DestockageAnalyse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_ModeleDemandeAnalyse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_ModeleDemandeAnalyse.Designer.cs">
+      <DependentUpon>Frm_ModeleDemandeAnalyse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_PrelevementAnalyseDemande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_PrelevementAnalyseDemande.Designer.cs">
+      <DependentUpon>Frm_PrelevementAnalyseDemande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_RecalculDemande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_RecalculDemande.Designer.cs">
+      <DependentUpon>Frm_RecalculDemande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_ResultatDemande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_ResultatDemande.Designer.cs">
+      <DependentUpon>Frm_ResultatDemande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_VerificationResultat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\Frm_VerificationResultat.Designer.cs">
+      <DependentUpon>Frm_VerificationResultat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\RadForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\RadForm1.Designer.cs">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_CommandeFrs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_CommandeFrs.Designer.cs">
+      <DependentUpon>Frm_CommandeFrs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_EntreSortieStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_EntreSortieStock.Designer.cs">
+      <DependentUpon>Frm_EntreSortieStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_Inventaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_Inventaire.Designer.cs">
+      <DependentUpon>Frm_Inventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_Livraison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeStock\Frm_Livraison.Designer.cs">
+      <DependentUpon>Frm_Livraison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ConfigCheminProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ConfigCheminProfil.Designer.cs">
+      <DependentUpon>Frm_ConfigCheminProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_Connexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_Connexion.designer.cs">
+      <DependentUpon>Frm_Connexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ExpirationLicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ExpirationLicence.Designer.cs">
+      <DependentUpon>Frm_ExpirationLicence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_JournalConnexionParUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_JournalConnexionParUtilisateur.Designer.cs">
+      <DependentUpon>Frm_JournalConnexionParUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ListeUtilisateurAvecLeursDroits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ListeUtilisateurAvecLeursDroits.Designer.cs">
+      <DependentUpon>Frm_ListeUtilisateurAvecLeursDroits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ModifierMotDePasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_ModifierMotDePasse.designer.cs">
+      <DependentUpon>Frm_ModifierMotDePasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_RestoreDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_RestoreDB.Designer.cs">
+      <DependentUpon>Frm_RestoreDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_Securite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_Securite.Designer.cs">
+      <DependentUpon>Frm_Securite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_UserManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionUtilisateur\Frm_UserManager.designer.cs">
+      <DependentUpon>Frm_UserManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_CodeBarre.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_CodeBarre.Designer.cs">
+      <DependentUpon>TR_CodeBarre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_CreancePeriodique.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_CreancePeriodique.Designer.cs">
+      <DependentUpon>TR_CreancePeriodique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_EtatRecapPrestationsCentre.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_EtatRecapPrestationsCentre.Designer.cs">
+      <DependentUpon>TR_EtatRecapPrestationsCentre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture.Designer.cs">
+      <DependentUpon>TR_Facture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture1.Designer.cs">
+      <DependentUpon>TR_Facture1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture2.Designer.cs">
+      <DependentUpon>TR_Facture2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_Facture3.Designer.cs">
+      <DependentUpon>TR_Facture3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_FactureAssureur.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_FactureAssureur.Designer.cs">
+      <DependentUpon>TR_FactureAssureur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_FacturePartenaire.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_FacturePartenaire.Designer.cs">
+      <DependentUpon>TR_FacturePartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_FacturePartenaire1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_FacturePartenaire1.Designer.cs">
+      <DependentUpon>TR_FacturePartenaire1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_FacturePartenaireSimplifiee.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_FacturePartenaireSimplifiee.Designer.cs">
+      <DependentUpon>TR_FacturePartenaireSimplifiee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_FicheInventaire.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_FicheInventaire.Designer.cs">
+      <DependentUpon>TR_FicheInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_FichePreInventaire.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_FichePreInventaire.Designer.cs">
+      <DependentUpon>TR_FichePreInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_ListeAnalyseParSecteur.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_ListeAnalyseParSecteur.Designer.cs">
+      <DependentUpon>TR_ListeAnalyseParSecteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_ListePatientsByPartenaire.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_ListePatientsByPartenaire.Designer.cs">
+      <DependentUpon>TR_ListePatientsByPartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_PointAnalyseQteMt.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_PointAnalyseQteMt.Designer.cs">
+      <DependentUpon>TR_PointAnalyseQteMt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_PointDesRistournes.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_PointDesRistournes.Designer.cs">
+      <DependentUpon>TR_PointDesRistournes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_PointEncaissement.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_PointEncaissement.Designer.cs">
+      <DependentUpon>TR_PointEncaissement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_PointFActureNormalisees.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_PointFActureNormalisees.Designer.cs">
+      <DependentUpon>TR_PointFActureNormalisees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_PointPeriodique.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_PointPeriodique.Designer.cs">
+      <DependentUpon>TR_PointPeriodique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_PointPeriodiqueSansAnalyse.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_PointPeriodiqueSansAnalyse.Designer.cs">
+      <DependentUpon>TR_PointPeriodiqueSansAnalyse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_Recu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_Recu.Designer.cs">
+      <DependentUpon>TR_Recu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_ResultatDemande.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_ResultatDemande.Designer.cs">
+      <DependentUpon>TR_ResultatDemande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseAssurance.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseAssurance.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseAssurance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseAutreEntree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseAutreEntree.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseAutreEntree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseAutreSortie.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseAutreSortie.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseAutreSortie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseDepense.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseDepense.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseDepense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseFournisseur.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseFournisseur.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaissePartenaire.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaissePartenaire.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaissePartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaissePatient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaissePatient.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaissePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseRecettes.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseRecettes.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseRecettes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseRistourne.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseRistourne.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseRistourne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseTOUT.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\TR_StatistiqueCaisseTOUT.Designer.cs">
+      <DependentUpon>TR_StatistiqueCaisseTOUT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Outils.cs" />
+    <Compile Include="Parametre\Frm_AddParametreAnalyseResultat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_AddParametreAnalyseResultat.Designer.cs">
+      <DependentUpon>Frm_AddParametreAnalyseResultat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_Analyse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_Analyse.Designer.cs">
+      <DependentUpon>Frm_Analyse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_AnalyseSimplifie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_AnalyseSimplifie.Designer.cs">
+      <DependentUpon>Frm_AnalyseSimplifie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_Antibiotiques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_Antibiotiques.Designer.cs">
+      <DependentUpon>Frm_Antibiotiques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_CategorieIntrant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_CategorieIntrant.Designer.cs">
+      <DependentUpon>Frm_CategorieIntrant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ConfigSaveRestoreDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ConfigSaveRestoreDB.Designer.cs">
+      <DependentUpon>Frm_ConfigSaveRestoreDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_FormeJuridique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_FormeJuridique.Designer.cs">
+      <DependentUpon>Frm_FormeJuridique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_Intrants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_Intrants.Designer.cs">
+      <DependentUpon>Frm_Intrants.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_Langue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_Langue.Designer.cs">
+      <DependentUpon>Frm_Langue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeAnalyse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeAnalyse.Designer.cs">
+      <DependentUpon>Frm_ListeAnalyse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeAssurances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeAssurances.Designer.cs">
+      <DependentUpon>Frm_ListeAssurances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeCommande.Designer.cs">
+      <DependentUpon>Frm_ListeCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeDemande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeDemande.Designer.cs">
+      <DependentUpon>Frm_ListeDemande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_AnnulationDemandes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_AnnulationDemandes.Designer.cs">
+      <DependentUpon>Frm_AnnulationDemandes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeFacturePourRistourne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeFacturePourRistourne.Designer.cs">
+      <DependentUpon>Frm_ListeFacturePourRistourne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeFournisseur.Designer.cs">
+      <DependentUpon>Frm_ListeFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeIntrant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListeIntrant.Designer.cs">
+      <DependentUpon>Frm_ListeIntrant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListePartenaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListePartenaire.Designer.cs">
+      <DependentUpon>Frm_ListePartenaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ListePatient.Designer.cs">
+      <DependentUpon>Frm_ListePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ModeleResultat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ModeleResultat.Designer.cs">
+      <DependentUpon>Frm_ModeleResultat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ParamCodeBarre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ParamCodeBarre.Designer.cs">
+      <DependentUpon>Frm_ParamCodeBarre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_ParametrageInterpretationParametre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_ParametrageInterpretationParametre.Designer.cs">
+      <DependentUpon>Frm_ParametrageInterpretationParametre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_Pays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_Pays.Designer.cs">
+      <DependentUpon>Frm_Pays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_Personne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_Personne.Designer.cs">
+      <DependentUpon>Frm_Personne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_SecteurActivite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_SecteurActivite.designer.cs">
+      <DependentUpon>Frm_SecteurActivite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_SecteursBiologique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_SecteursBiologique.Designer.cs">
+      <DependentUpon>Frm_SecteursBiologique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_Societe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_Societe.Designer.cs">
+      <DependentUpon>Frm_Societe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_TrancheAgePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_TrancheAgePatient.Designer.cs">
+      <DependentUpon>Frm_TrancheAgePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypeCoffret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypeCoffret.Designer.cs">
+      <DependentUpon>Frm_TypeCoffret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypeInventaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypeInventaire.Designer.cs">
+      <DependentUpon>Frm_TypeInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypePrelevement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypePrelevement.Designer.cs">
+      <DependentUpon>Frm_TypePrelevement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypeTube.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_TypeTube.designer.cs">
+      <DependentUpon>Frm_TypeTube.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\Frm_UniteMesure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parametre\Frm_UniteMesure.designer.cs">
+      <DependentUpon>Frm_UniteMesure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RadForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RadForm1.Designer.cs">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RowSelectionGridBehavior.cs" />
+    <EmbeddedResource Include="DataBaseConfig\Frm_ConfigDataBase.resx">
+      <DependentUpon>Frm_ConfigDataBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBaseConfig\Frm_Resaux.resx">
+      <DependentUpon>Frm_Resaux.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBaseConfig\Frm_SauvDB.resx">
+      <DependentUpon>Frm_SauvDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBaseConfig\Frm_Serveur.resx">
+      <DependentUpon>Frm_Serveur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_AlerteIntrant.resx">
+      <DependentUpon>Frm_AlerteIntrant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_EtatRecapPrestationsCentre.resx">
+      <DependentUpon>Frm_EtatRecapPrestationsCentre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_ListeAnalyseParSecteur.resx">
+      <DependentUpon>Frm_ListeAnalyseParSecteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_ListePatientsByPartenaire.resx">
+      <DependentUpon>Frm_ListePatientsByPartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_PointAnalyseQteMt.resx">
+      <DependentUpon>Frm_PointAnalyseQteMt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_PointEncaissement.resx">
+      <DependentUpon>Frm_PointEncaissement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_PointFactureAnnulees_Clt.resx">
+      <DependentUpon>Frm_PointFactureAnnulees_Clt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_PointFactureAnnulees_Part.resx">
+      <DependentUpon>Frm_PointFactureAnnulees_Part.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_PointFactureNormalisee.resx">
+      <DependentUpon>Frm_PointFactureNormalisee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_PointPeriodique.resx">
+      <DependentUpon>Frm_PointPeriodique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_ResultatDemandeImp.resx">
+      <DependentUpon>Frm_ResultatDemandeImp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_StatistiquesCaisse.resx">
+      <DependentUpon>Frm_StatistiquesCaisse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaireEtat\Frm_StockIntrant.resx">
+      <DependentUpon>Frm_StockIntrant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Menu.resx">
+      <DependentUpon>Frm_Menu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ReportViewer.resx">
+      <DependentUpon>Frm_ReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_AutreEntreSortie.resx">
+      <DependentUpon>Frm_AutreEntreSortie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_FactureAssurance.resx">
+      <DependentUpon>Frm_FactureAssurance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_FactureAutrePartenaire.resx">
+      <DependentUpon>Frm_FactureAutrePartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_FactureFournisseur.resx">
+      <DependentUpon>Frm_FactureFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_FacturePartenaire.resx">
+      <DependentUpon>Frm_FacturePartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_FacturePartenaireVisualiser.resx">
+      <DependentUpon>Frm_FacturePartenaireVisualiser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_PaiementRistournes.resx">
+      <DependentUpon>Frm_PaiementRistournes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_ReglementAssurance.resx">
+      <DependentUpon>Frm_ReglementAssurance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_ReglementClient.resx">
+      <DependentUpon>Frm_ReglementClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_ReglementFournisseur.resx">
+      <DependentUpon>Frm_ReglementFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeLaCaisse\Frm_ReglementPartenaire.resx">
+      <DependentUpon>Frm_ReglementPartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_DemandeAnalyse.resx">
+      <DependentUpon>Frm_DemandeAnalyse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_DemandeAnalyse1.resx">
+      <DependentUpon>Frm_DemandeAnalyse1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_DestockageAnalyse.resx">
+      <DependentUpon>Frm_DestockageAnalyse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_ModeleDemandeAnalyse.resx">
+      <DependentUpon>Frm_ModeleDemandeAnalyse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_PrelevementAnalyseDemande.resx">
+      <DependentUpon>Frm_PrelevementAnalyseDemande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_RecalculDemande.resx">
+      <DependentUpon>Frm_RecalculDemande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_ResultatDemande.resx">
+      <DependentUpon>Frm_ResultatDemande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\Frm_VerificationResultat.resx">
+      <DependentUpon>Frm_VerificationResultat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDesAnalyses\RadForm1.resx">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeStock\Frm_CommandeFrs.resx">
+      <DependentUpon>Frm_CommandeFrs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeStock\Frm_EntreSortieStock.resx">
+      <DependentUpon>Frm_EntreSortieStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeStock\Frm_Inventaire.resx">
+      <DependentUpon>Frm_Inventaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeStock\Frm_Livraison.resx">
+      <DependentUpon>Frm_Livraison.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_ConfigCheminProfil.resx">
+      <DependentUpon>Frm_ConfigCheminProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_Connexion.resx">
+      <DependentUpon>Frm_Connexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_ExpirationLicence.resx">
+      <DependentUpon>Frm_ExpirationLicence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_JournalConnexionParUtilisateur.resx">
+      <DependentUpon>Frm_JournalConnexionParUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_ListeUtilisateurAvecLeursDroits.resx">
+      <DependentUpon>Frm_ListeUtilisateurAvecLeursDroits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_ModifierMotDePasse.resx">
+      <DependentUpon>Frm_ModifierMotDePasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_RestoreDB.resx">
+      <DependentUpon>Frm_RestoreDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_Securite.resx">
+      <DependentUpon>Frm_Securite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionUtilisateur\Frm_UserManager.resx">
+      <DependentUpon>Frm_UserManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_CodeBarre.resx">
+      <DependentUpon>TR_CodeBarre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_CreancePeriodique.resx">
+      <DependentUpon>TR_CreancePeriodique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_EtatRecapPrestationsCentre.resx">
+      <DependentUpon>TR_EtatRecapPrestationsCentre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_Facture.resx">
+      <DependentUpon>TR_Facture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_Facture1.resx">
+      <DependentUpon>TR_Facture1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_Facture2.resx">
+      <DependentUpon>TR_Facture2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_Facture3.resx">
+      <DependentUpon>TR_Facture3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_FactureAssureur.resx">
+      <DependentUpon>TR_FactureAssureur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_FacturePartenaire.resx">
+      <DependentUpon>TR_FacturePartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_FacturePartenaire1.resx">
+      <DependentUpon>TR_FacturePartenaire1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_FacturePartenaireSimplifiee.resx">
+      <DependentUpon>TR_FacturePartenaireSimplifiee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_FicheInventaire.resx">
+      <DependentUpon>TR_FicheInventaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_FichePreInventaire.resx">
+      <DependentUpon>TR_FichePreInventaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_ListeAnalyseParSecteur.resx">
+      <DependentUpon>TR_ListeAnalyseParSecteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_ListePatientsByPartenaire.resx">
+      <DependentUpon>TR_ListePatientsByPartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_PointAnalyseQteMt.resx">
+      <DependentUpon>TR_PointAnalyseQteMt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_PointDesRistournes.resx">
+      <DependentUpon>TR_PointDesRistournes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_PointEncaissement.resx">
+      <DependentUpon>TR_PointEncaissement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_PointFActureNormalisees.resx">
+      <DependentUpon>TR_PointFActureNormalisees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_PointPeriodique.resx">
+      <DependentUpon>TR_PointPeriodique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_PointPeriodiqueSansAnalyse.resx">
+      <DependentUpon>TR_PointPeriodiqueSansAnalyse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_Recu.resx">
+      <DependentUpon>TR_Recu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_ResultatDemande.resx">
+      <DependentUpon>TR_ResultatDemande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseAssurance.resx">
+      <DependentUpon>TR_StatistiqueCaisseAssurance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseAutreEntree.resx">
+      <DependentUpon>TR_StatistiqueCaisseAutreEntree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseAutreSortie.resx">
+      <DependentUpon>TR_StatistiqueCaisseAutreSortie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseDepense.resx">
+      <DependentUpon>TR_StatistiqueCaisseDepense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseFournisseur.resx">
+      <DependentUpon>TR_StatistiqueCaisseFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaissePartenaire.resx">
+      <DependentUpon>TR_StatistiqueCaissePartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaissePatient.resx">
+      <DependentUpon>TR_StatistiqueCaissePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseRecettes.resx">
+      <DependentUpon>TR_StatistiqueCaisseRecettes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseRistourne.resx">
+      <DependentUpon>TR_StatistiqueCaisseRistourne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impressions\TR_StatistiqueCaisseTOUT.resx">
+      <DependentUpon>TR_StatistiqueCaisseTOUT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_AddParametreAnalyseResultat.resx">
+      <DependentUpon>Frm_AddParametreAnalyseResultat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_Analyse.resx">
+      <DependentUpon>Frm_Analyse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_AnalyseSimplifie.resx">
+      <DependentUpon>Frm_AnalyseSimplifie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_Antibiotiques.resx">
+      <DependentUpon>Frm_Antibiotiques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_CategorieIntrant.resx">
+      <DependentUpon>Frm_CategorieIntrant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ConfigSaveRestoreDB.resx">
+      <DependentUpon>Frm_ConfigSaveRestoreDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_FormeJuridique.resx">
+      <DependentUpon>Frm_FormeJuridique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_Intrants.resx">
+      <DependentUpon>Frm_Intrants.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_Langue.resx">
+      <DependentUpon>Frm_Langue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListeAnalyse.resx">
+      <DependentUpon>Frm_ListeAnalyse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListeAssurances.resx">
+      <DependentUpon>Frm_ListeAssurances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListeCommande.resx">
+      <DependentUpon>Frm_ListeCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListeDemande.resx">
+      <DependentUpon>Frm_ListeDemande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_AnnulationDemandes.resx">
+      <DependentUpon>Frm_AnnulationDemandes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListeFacturePourRistourne.resx">
+      <DependentUpon>Frm_ListeFacturePourRistourne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListeFournisseur.resx">
+      <DependentUpon>Frm_ListeFournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListeIntrant.resx">
+      <DependentUpon>Frm_ListeIntrant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListePartenaire.resx">
+      <DependentUpon>Frm_ListePartenaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ListePatient.resx">
+      <DependentUpon>Frm_ListePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ModeleResultat.resx">
+      <DependentUpon>Frm_ModeleResultat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ParamCodeBarre.resx">
+      <DependentUpon>Frm_ParamCodeBarre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_ParametrageInterpretationParametre.resx">
+      <DependentUpon>Frm_ParametrageInterpretationParametre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_Pays.resx">
+      <DependentUpon>Frm_Pays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_Personne.resx">
+      <DependentUpon>Frm_Personne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_SecteurActivite.resx">
+      <DependentUpon>Frm_SecteurActivite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_SecteursBiologique.resx">
+      <DependentUpon>Frm_SecteursBiologique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_Societe.resx">
+      <DependentUpon>Frm_Societe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_TrancheAgePatient.resx">
+      <DependentUpon>Frm_TrancheAgePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_TypeCoffret.resx">
+      <DependentUpon>Frm_TypeCoffret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_TypeInventaire.resx">
+      <DependentUpon>Frm_TypeInventaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_TypePrelevement.resx">
+      <DependentUpon>Frm_TypePrelevement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_TypeTube.resx">
+      <DependentUpon>Frm_TypeTube.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parametre\Frm_UniteMesure.resx">
+      <DependentUpon>Frm_UniteMesure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="RadForm1.resx">
+      <DependentUpon>RadForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="LGC.Business.GestionDeLaCaisse.AutreEntreSortie.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.Facture.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.FactureAssurance.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.FactureFournisseur.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.FacturePartenaire.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.ModeReglement.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.PaiementRistourne1.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.ReglementAssurance.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.ReglementClient.datasource" />
+    <None Include="LGC.Business.GestionDeLaCaisse.ReglementFournisseur.datasource" />
+    <None Include="LGC.Business.GestionDesAnalyses.AnalyseDemande.datasource" />
+    <None Include="LGC.Business.GestionDesAnalyses.DemandeAnalyse.datasource" />
+    <None Include="LGC.Business.GestionDesAnalyses.ModeleAnalyseDemande.datasource" />
+    <None Include="LGC.Business.GestionDesAnalyses.PrelevementAnalyseDemande.datasource" />
+    <None Include="LGC.Business.GestionDesAnalyses.ResultatDemande.datasource" />
+    <None Include="LGC.Business.GestionDesAnalyses.ResultatParametreAnalyse.datasource" />
+    <None Include="LGC.Business.GestionDeStock.CommandeIntrant.datasource" />
+    <None Include="LGC.Business.GestionDeStock.DestokageAnalyse.datasource" />
+    <None Include="LGC.Business.GestionDeStock.EntreSortieStock.datasource" />
+    <None Include="LGC.Business.GestionDeStock.InrantSortieStock.datasource" />
+    <None Include="LGC.Business.GestionDeStock.IntrantAnalyseDestocke.datasource" />
+    <None Include="LGC.Business.GestionDeStock.IntrantCommander1.datasource" />
+    <None Include="LGC.Business.GestionDeStock.InventaireIntrant.datasource" />
+    <None Include="LGC.Business.Parametre.Analyse1.datasource" />
+    <None Include="LGC.Business.Parametre.AnalysePartenaire.datasource" />
+    <None Include="LGC.Business.Parametre.AnalyseType.datasource" />
+    <None Include="LGC.Business.Parametre.Antibiotiques.datasource" />
+    <None Include="LGC.Business.Parametre.Assurance.datasource" />
+    <None Include="LGC.Business.Parametre.CategorieIntrant.datasource" />
+    <None Include="LGC.Business.Parametre.Intrants.datasource" />
+    <None Include="LGC.Business.Parametre.IntrantsTypeCoffret.datasource" />
+    <None Include="LGC.Business.Parametre.ParametrageInterpretationParametre.datasource" />
+    <None Include="LGC.Business.Parametre.Partenaires.datasource" />
+    <None Include="LGC.Business.Parametre.Patient.datasource" />
+    <None Include="LGC.Business.Parametre.PrelevementAnalyse.datasource" />
+    <None Include="LGC.Business.Parametre.TypeAnalyse.datasource" />
+    <None Include="LGC.Business.Parametre.TypeCoffret.datasource" />
+    <None Include="LGC.Business.Parametre.TypeTube.datasource" />
+    <None Include="LGC.DataAccess.Parametre.ParametreDataSet1+TJ_IntrantsTypeCoffretDataTable.datasource" />
+    <None Include="LGC.DataAccess.Parametre.ParametreDataSet1+T_TypeCoffretDataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <!--sirinie -->
+    <ProjectReference Include="..\LGC.Business\LGC.Business.csproj">
+      <Project>{ade4575f-1aee-445b-b0c7-ee242d55b8cf}</Project>
+      <Name>LGC.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LGC.DataAccess\LGC.DataAccess.csproj">
+      <Project>{36ae4ee0-f2b7-4fba-a67a-9b53bfc4f8ba}</Project>
+      <Name>LGC.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actualiser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_UndoHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_write.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actualiser1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_UndoHS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveHS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_write1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_UndoHS2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FON.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sent_48px.png" />
+    <None Include="Resources\Send Email_25px.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\accept.png" />
+    <Content Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

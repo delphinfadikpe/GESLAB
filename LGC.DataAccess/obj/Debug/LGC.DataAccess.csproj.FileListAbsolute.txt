@@ -1,0 +1,45 @@
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.pdb
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.DataAccess\obj\Debug\LGG.DataAccess.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.DataAccess\obj\Debug\LGG.DataAccess.pdb
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\obj\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\obj\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\obj\Debug\LGG.DataAccess.csprojResolveAssemblyReference.cache
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.csprojResolveAssemblyReference.cache
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll.config
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.pdb
+G:\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll.config
+G:\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll
+G:\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.pdb
+G:\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.csprojResolveAssemblyReference.cache
+G:\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.dll
+G:\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll.config
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll.config
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.csprojResolveAssemblyReference.cache
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll.config
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.DataAccess\bin\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.DataAccess\obj\Debug\LGC.DataAccess.csprojResolveAssemblyReference.cache

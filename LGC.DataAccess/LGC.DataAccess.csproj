@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36AE4EE0-F2B7-4FBA-A67A-9B53BFC4F8BA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LGC.DataAccess</RootNamespace>
+    <AssemblyName>LGC.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="GestionDeLaCaisse\GestionDeLaCaisseDataSet.cs">
+      <DependentUpon>GestionDeLaCaisseDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GestionDeLaCaisse\GestionDeLaCaisseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GestionDeLaCaisseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\GestionDesAnalysesDataSet.cs">
+      <DependentUpon>GestionDesAnalysesDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GestionDesAnalyses\GestionDesAnalysesDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GestionDesAnalysesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeStock\GestionDeStockDataSet.cs">
+      <DependentUpon>GestionDeStockDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GestionDeStock\GestionDeStockDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GestionDeStockDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GestionUtilisateur\UserManagerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UserManagerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Impressions\ImpressionsDataSet.cs">
+      <DependentUpon>ImpressionsDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Impressions\ImpressionsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ImpressionsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\ParametreDataSet1.cs">
+      <DependentUpon>ParametreDataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Parametre\ParametreDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ParametreDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Parametre\ParametreDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ParametreDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="GestionDeLaCaisse\GestionDeLaCaisseDataSet.xsc">
+      <DependentUpon>GestionDeLaCaisseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionDeLaCaisse\GestionDeLaCaisseDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GestionDeLaCaisseDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GestionDeLaCaisse\GestionDeLaCaisseDataSet.xss">
+      <DependentUpon>GestionDeLaCaisseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionDesAnalyses\GestionDesAnalysesDataSet.xsc">
+      <DependentUpon>GestionDesAnalysesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionDesAnalyses\GestionDesAnalysesDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GestionDesAnalysesDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GestionDesAnalyses\GestionDesAnalysesDataSet.xss">
+      <DependentUpon>GestionDesAnalysesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionDeStock\GestionDeStockDataSet.xsc">
+      <DependentUpon>GestionDeStockDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionDeStock\GestionDeStockDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GestionDeStockDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GestionDeStock\GestionDeStockDataSet.xss">
+      <DependentUpon>GestionDeStockDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionUtilisateur\UserManagerDataSet.xsc">
+      <DependentUpon>UserManagerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GestionUtilisateur\UserManagerDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UserManagerDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GestionUtilisateur\UserManagerDataSet.xss">
+      <DependentUpon>UserManagerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Impressions\ImpressionsDataSet.xsc">
+      <DependentUpon>ImpressionsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Impressions\ImpressionsDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ImpressionsDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Impressions\ImpressionsDataSet.xss">
+      <DependentUpon>ImpressionsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Parametre\ParametreDataSet1.xsc">
+      <DependentUpon>ParametreDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Parametre\ParametreDataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ParametreDataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Parametre\ParametreDataSet1.xss">
+      <DependentUpon>ParametreDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Parametre\ParametreDataSet2.xsc">
+      <DependentUpon>ParametreDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Parametre\ParametreDataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ParametreDataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Parametre\ParametreDataSet2.xss">
+      <DependentUpon>ParametreDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

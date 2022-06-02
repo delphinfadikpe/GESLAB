@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="gv_Liste.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="gv_Liste.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 9.75pt</value>
+  </data>
+  <data name="gv_Liste.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="gv_Liste.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 18</value>
+  </data>
+  <data name="gridViewDecimalColumn1.HeaderText" xml:space="preserve">
+    <value>NumLigne</value>
+  </data>
+  <data name="gridViewDateTimeColumn1.HeaderText" xml:space="preserve">
+    <value>DateCreationServeur</value>
+  </data>
+  <data name="gridViewDateTimeColumn2.HeaderText" xml:space="preserve">
+    <value>DateDernModifClient</value>
+  </data>
+  <data name="gridViewDateTimeColumn3.HeaderText" xml:space="preserve">
+    <value>DateDernModifServeur</value>
+  </data>
+  <data name="gridViewTextBoxColumn1.HeaderText" xml:space="preserve">
+    <value>UserLogin</value>
+  </data>
+  <data name="gridViewCheckBoxColumn1.HeaderText" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="gridViewImageColumn1.HeaderText" xml:space="preserve">
+    <value>Rowvers</value>
+  </data>
+  <data name="gridViewTextBoxColumn2.HeaderText" xml:space="preserve">
+    <value>CodeCategorie</value>
+  </data>
+  <data name="gridViewTextBoxColumn3.HeaderText" xml:space="preserve">
+    <value>CATEGORIE</value>
+  </data>
+  <metadata name="bds_Categorie.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="gv_Liste.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="gv_Liste.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="gv_Liste.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="gv_Liste.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="gv_Liste.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="gv_Liste.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="gv_Liste.Size" type="System.Drawing.Size, System.Drawing">
+    <value>422, 342</value>
+  </data>
+  <data name="gv_Liste.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="gv_Liste.Text" xml:space="preserve">
+    <value>radGridView2</value>
+  </data>
+  <data name="&gt;&gt;gv_Liste.Name" xml:space="preserve">
+    <value>gv_Liste</value>
+  </data>
+  <data name="&gt;&gt;gv_Liste.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadGridView, Telerik.WinControls.GridView, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;gv_Liste.Parent" xml:space="preserve">
+    <value>gb_Liste</value>
+  </data>
+  <data name="&gt;&gt;gv_Liste.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="bds_Intrant.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>146, 17</value>
+  </metadata>
+  <data name="btn_Actualiser.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left</value>
+  </data>
+  <data name="btn_Actualiser.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 9.75pt, style=Bold</value>
+  </data>
+  <data name="btn_Actualiser.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 371</value>
+  </data>
+  <data name="btn_Actualiser.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="btn_Actualiser.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btn_Actualiser.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btn_Actualiser.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btn_Actualiser.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="btn_Actualiser.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 33</value>
+  </data>
+  <data name="btn_Actualiser.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btn_Actualiser.Text" xml:space="preserve">
+    <value>&amp;Actualiser</value>
+  </data>
+  <data name="btn_Actualiser.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;btn_Actualiser.Name" xml:space="preserve">
+    <value>btn_Actualiser</value>
+  </data>
+  <data name="&gt;&gt;btn_Actualiser.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadButton, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;btn_Actualiser.Parent" xml:space="preserve">
+    <value>splitPanel1</value>
+  </data>
+  <data name="&gt;&gt;btn_Actualiser.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="gb_Liste.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="gb_Liste.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 9.75pt, style=Bold</value>
+  </data>
+  <data name="gb_Liste.HeaderText" xml:space="preserve">
+    <value>LISTE DES CATEGORIES</value>
+  </data>
+  <data name="gb_Liste.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="gb_Liste.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="gb_Liste.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="gb_Liste.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="gb_Liste.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="gb_Liste.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="gb_Liste.Size" type="System.Drawing.Size, System.Drawing">
+    <value>426, 362</value>
+  </data>
+  <data name="gb_Liste.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="gb_Liste.Text" xml:space="preserve">
+    <value>LISTE DES CATEGORIES</value>
+  </data>
+  <data name="&gt;&gt;gb_Liste.Name" xml:space="preserve">
+    <value>gb_Liste</value>
+  </data>
+  <data name="&gt;&gt;gb_Liste.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadGroupBox, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;gb_Liste.Parent" xml:space="preserve">
+    <value>splitPanel1</value>
+  </data>
+  <data name="&gt;&gt;gb_Liste.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="splitPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="splitPanel1.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="splitPanel1.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="splitPanel1.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="splitPanel1.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="splitPanel1.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="splitPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>432, 407</value>
+  </data>
+  <data name="splitPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="splitPanel1.Text" xml:space="preserve">
+    <value>splitPanel1</value>
+  </data>
+  <data name="&gt;&gt;splitPanel1.Name" xml:space="preserve">
+    <value>splitPanel1</value>
+  </data>
+  <data name="&gt;&gt;splitPanel1.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.SplitPanel, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;splitPanel1.Parent" xml:space="preserve">
+    <value>radSplitContainer1</value>
+  </data>
+  <data name="&gt;&gt;splitPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn_inserer.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="btn_inserer.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 9.75pt, style=Bold</value>
+  </data>
+  <data name="btn_inserer.Location" type="System.Drawing.Point, System.Drawing">
+    <value>339, 371</value>
+  </data>
+  <data name="btn_inserer.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="btn_inserer.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btn_inserer.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btn_inserer.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btn_inserer.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="btn_inserer.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 33</value>
+  </data>
+  <data name="btn_inserer.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btn_inserer.Text" xml:space="preserve">
+    <value>&amp;Insérer</value>
+  </data>
+  <data name="btn_inserer.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageBeforeText</value>
+  </data>
+  <data name="&gt;&gt;btn_inserer.Name" xml:space="preserve">
+    <value>btn_inserer</value>
+  </data>
+  <data name="&gt;&gt;btn_inserer.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadButton, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;btn_inserer.Parent" xml:space="preserve">
+    <value>splitPanel2</value>
+  </data>
+  <data name="&gt;&gt;btn_inserer.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="radGroupBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="gv_Listep.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="gv_Listep.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 9.75pt</value>
+  </data>
+  <data name="gv_Listep.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="gv_Listep.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 18</value>
+  </data>
+  <data name="gridViewDecimalColumn2.HeaderText" xml:space="preserve">
+    <value>NumLigne</value>
+  </data>
+  <data name="gridViewDateTimeColumn4.HeaderText" xml:space="preserve">
+    <value>DateCreationServeur</value>
+  </data>
+  <data name="gridViewDateTimeColumn5.HeaderText" xml:space="preserve">
+    <value>DateDernModifClient</value>
+  </data>
+  <data name="gridViewDateTimeColumn6.HeaderText" xml:space="preserve">
+    <value>DateDernModifServeur</value>
+  </data>
+  <data name="gridViewTextBoxColumn4.HeaderText" xml:space="preserve">
+    <value>UserLogin</value>
+  </data>
+  <data name="gridViewCheckBoxColumn2.HeaderText" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="gridViewImageColumn2.HeaderText" xml:space="preserve">
+    <value>Rowvers</value>
+  </data>
+  <data name="gridViewTextBoxColumn5.HeaderText" xml:space="preserve">
+    <value>CATEGORIE</value>
+  </data>
+  <data name="gridViewTextBoxColumn6.HeaderText" xml:space="preserve">
+    <value>CodeIntrant</value>
+  </data>
+  <data name="gridViewTextBoxColumn7.HeaderText" xml:space="preserve">
+    <value>INTRANT</value>
+  </data>
+  <data name="gridViewTextBoxColumn8.HeaderText" xml:space="preserve">
+    <value>UNITE</value>
+  </data>
+  <data name="gridViewDecimalColumn3.HeaderText" xml:space="preserve">
+    <value>StockSecurite</value>
+  </data>
+  <data name="gridViewDecimalColumn4.HeaderText" xml:space="preserve">
+    <value>SeuilCritique</value>
+  </data>
+  <data name="gridViewDecimalColumn5.HeaderText" xml:space="preserve">
+    <value>SOLDE DISPONIBLE</value>
+  </data>
+  <data name="gv_Listep.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="gv_Listep.Size" type="System.Drawing.Size, System.Drawing">
+    <value>434, 342</value>
+  </data>
+  <data name="gv_Listep.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="gv_Listep.Text" xml:space="preserve">
+    <value>radGridView2</value>
+  </data>
+  <data name="&gt;&gt;gv_Listep.Name" xml:space="preserve">
+    <value>gv_Listep</value>
+  </data>
+  <data name="&gt;&gt;gv_Listep.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadGridView, Telerik.WinControls.GridView, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;gv_Listep.Parent" xml:space="preserve">
+    <value>radGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;gv_Listep.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="radGroupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 9.75pt, style=Bold</value>
+  </data>
+  <data name="radGroupBox1.HeaderText" xml:space="preserve">
+    <value>LISTE DES INTRANTS</value>
+  </data>
+  <data name="radGroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 3</value>
+  </data>
+  <data name="radGroupBox1.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="radGroupBox1.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radGroupBox1.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="radGroupBox1.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="radGroupBox1.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="radGroupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>438, 362</value>
+  </data>
+  <data name="radGroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="radGroupBox1.Text" xml:space="preserve">
+    <value>LISTE DES INTRANTS</value>
+  </data>
+  <data name="&gt;&gt;radGroupBox1.Name" xml:space="preserve">
+    <value>radGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;radGroupBox1.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadGroupBox, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;radGroupBox1.Parent" xml:space="preserve">
+    <value>splitPanel2</value>
+  </data>
+  <data name="&gt;&gt;radGroupBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="splitPanel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>436, 0</value>
+  </data>
+  <data name="splitPanel2.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="splitPanel2.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="splitPanel2.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="splitPanel2.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="splitPanel2.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="splitPanel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>447, 407</value>
+  </data>
+  <data name="splitPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="splitPanel2.Text" xml:space="preserve">
+    <value>splitPanel2</value>
+  </data>
+  <data name="&gt;&gt;splitPanel2.Name" xml:space="preserve">
+    <value>splitPanel2</value>
+  </data>
+  <data name="&gt;&gt;splitPanel2.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.SplitPanel, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;splitPanel2.Parent" xml:space="preserve">
+    <value>radSplitContainer1</value>
+  </data>
+  <data name="&gt;&gt;splitPanel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="radSplitContainer1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="radSplitContainer1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="radSplitContainer1.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="radSplitContainer1.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radSplitContainer1.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="radSplitContainer1.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="radSplitContainer1.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="radSplitContainer1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>883, 407</value>
+  </data>
+  <data name="radSplitContainer1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="radSplitContainer1.Text" xml:space="preserve">
+    <value>radSplitContainer1</value>
+  </data>
+  <data name="&gt;&gt;radSplitContainer1.Name" xml:space="preserve">
+    <value>radSplitContainer1</value>
+  </data>
+  <data name="&gt;&gt;radSplitContainer1.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadSplitContainer, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+  <data name="&gt;&gt;radSplitContainer1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;radSplitContainer1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>58</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>883, 407</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 9.75pt, style=Bold</value>
+  </data>
+  <data name="Frm_ListeIntrant.RootElement.Alignment" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopLeft</value>
+  </data>
+  <data name="Frm_ListeIntrant.RootElement.AngleTransform" type="System.Single, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="Frm_ListeIntrant.RootElement.FlipText" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Frm_ListeIntrant.RootElement.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="Frm_ListeIntrant.RootElement.TextOrientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Horizontal</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>[LISTE DES ANALYSES ET PRELEVEMENTS ASSOCIES]</value>
+  </data>
+  <data name="&gt;&gt;bds_Categorie.Name" xml:space="preserve">
+    <value>bds_Categorie</value>
+  </data>
+  <data name="&gt;&gt;bds_Categorie.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bds_Intrant.Name" xml:space="preserve">
+    <value>bds_Intrant</value>
+  </data>
+  <data name="&gt;&gt;bds_Intrant.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Frm_ListeIntrant</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>Telerik.WinControls.UI.RadForm, Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e</value>
+  </data>
+</root>

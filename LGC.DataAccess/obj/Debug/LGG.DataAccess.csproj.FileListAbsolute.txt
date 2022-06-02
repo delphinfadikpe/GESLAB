@@ -1,0 +1,16 @@
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\bin\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\obj\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.DataAccess\obj\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGG.DataAccess\bin\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGG.DataAccess\bin\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGG.DataAccess\obj\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGG.DataAccess\obj\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGG.DataAccess\obj\Debug\LGG.DataAccess.csprojResolveAssemblyReference.cache
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGG.DataAccess.dll.config
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\bin\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\obj\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.DataAccess\obj\Debug\LGG.DataAccess.pdb

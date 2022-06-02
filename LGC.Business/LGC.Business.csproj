@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ADE4575F-1AEE-445B-B0C7-EE242D55B8CF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LGC.Business</RootNamespace>
+    <AssemblyName>LGC.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2015.3.1104.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Commandes.cs" />
+    <Compile Include="CurrentUser.cs" />
+    <Compile Include="Fonction.cs" />
+    <Compile Include="GestionDeLaCaisse\AutreEntreSortie.cs" />
+    <Compile Include="GestionDeLaCaisse\Facture.cs" />
+    <Compile Include="GestionDeLaCaisse\FactureAssurance.cs" />
+    <Compile Include="GestionDeLaCaisse\FactureCommande.cs" />
+    <Compile Include="GestionDeLaCaisse\FactureFournisseur.cs" />
+    <Compile Include="GestionDeLaCaisse\FacturePartenaire.cs" />
+    <Compile Include="GestionDeLaCaisse\ModeReglement.cs" />
+    <Compile Include="GestionDeLaCaisse\PaiementRistourne.cs" />
+    <Compile Include="GestionDeLaCaisse\ReglementAssurance.cs" />
+    <Compile Include="GestionDeLaCaisse\ReglementClient.cs" />
+    <Compile Include="GestionDeLaCaisse\ReglementFacture.cs" />
+    <Compile Include="GestionDeLaCaisse\ReglementFournisseur.cs" />
+    <Compile Include="GestionDeLaCaisse\ReglementPartenaire.cs" />
+    <Compile Include="GestionDesAnalyses\AnalyseCommission.cs" />
+    <Compile Include="GestionDesAnalyses\AnalyseDemande.cs" />
+    <Compile Include="GestionDesAnalyses\CodeBarrePrelevement.cs" />
+    <Compile Include="GestionDesAnalyses\DemandeAnalyse.cs" />
+    <Compile Include="GestionDesAnalyses\ModeleAnalyseDemande.cs" />
+    <Compile Include="GestionDesAnalyses\PrelevementAnalyseDemande.cs" />
+    <Compile Include="GestionDesAnalyses\ResultatDemande.cs" />
+    <Compile Include="GestionDesAnalyses\ResultatParametreAnalyse.cs" />
+    <Compile Include="GestionDeStock\CommandeIntrant.cs" />
+    <Compile Include="GestionDeStock\DestokageAnalyse.cs" />
+    <Compile Include="GestionDeStock\EntreSortieStock.cs" />
+    <Compile Include="GestionDeStock\InrantSortieStock.cs" />
+    <Compile Include="GestionDeStock\IntrantAnalyseDestocke.cs" />
+    <Compile Include="GestionDeStock\IntrantCommander.cs" />
+    <Compile Include="GestionDeStock\IntrantLivrer.cs" />
+    <Compile Include="GestionDeStock\Inventaire.cs" />
+    <Compile Include="GestionDeStock\InventaireIntrant.cs" />
+    <Compile Include="GestionDeStock\Livraison.cs" />
+    <Compile Include="GestionDeStock\PersonneConcernneeInventaire.cs" />
+    <Compile Include="Parametre\AlliePartenaire.cs" />
+    <Compile Include="Parametre\AnalysePartenaire.cs" />
+    <Compile Include="Parametre\AnalyseType.cs" />
+    <Compile Include="Parametre\Antibiotiques.cs" />
+    <Compile Include="Parametre\DonneesMCF.cs" />
+    <Compile Include="Parametre\IntrantsTypeCoffret.cs" />
+    <Compile Include="Parametre\TypeAnalyse.cs" />
+    <Compile Include="Parametre\TypeCoffret.cs" />
+    <Compile Include="Parametre\TypeInventaire.cs" />
+    <Compile Include="GestionUtilisateur\ConfigurationUM.cs" />
+    <Compile Include="GestionUtilisateur\Droit.cs" />
+    <Compile Include="GestionUtilisateur\Etats.cs" />
+    <Compile Include="GestionUtilisateur\JournalConnexion.cs" />
+    <Compile Include="GestionUtilisateur\JournalConnexionOperation.cs" />
+    <Compile Include="GestionUtilisateur\Profil.cs" />
+    <Compile Include="GestionUtilisateur\ProfilDroit.cs" />
+    <Compile Include="GestionUtilisateur\Securite.cs" />
+    <Compile Include="GestionUtilisateur\ShowInternetProtocolPC.cs" />
+    <Compile Include="GestionUtilisateur\ShowMacPc.cs" />
+    <Compile Include="GestionUtilisateur\Utilisateur.cs" />
+    <Compile Include="GestionUtilisateur\UtilisateurProfil.cs" />
+    <Compile Include="Impressions\Rapport.cs" />
+    <Compile Include="Parametre\Analyse.cs" />
+    <Compile Include="Parametre\Assurance.cs" />
+    <Compile Include="Parametre\CategorieIntrant.cs" />
+    <Compile Include="Parametre\CodeBarre.cs" />
+    <Compile Include="Parametre\FormeJuridique.cs" />
+    <Compile Include="Parametre\Fournisseur.cs" />
+    <Compile Include="Parametre\IntrantAnalyse.cs" />
+    <Compile Include="Parametre\Intrants.cs" />
+    <Compile Include="Parametre\Langue.cs" />
+    <Compile Include="Parametre\ParametrageInterpretationParametre.cs" />
+    <Compile Include="Parametre\ParametreAnalyse.cs" />
+    <Compile Include="Parametre\PartenairePersonneMorale.cs" />
+    <Compile Include="Parametre\PartenairePersonnePhysique.cs" />
+    <Compile Include="Parametre\Partenaires.cs" />
+    <Compile Include="Parametre\Patient.cs" />
+    <Compile Include="Parametre\Pays.cs" />
+    <Compile Include="Parametre\Personne.cs" />
+    <Compile Include="Parametre\PrelevementAnalyse.cs" />
+    <Compile Include="Parametre\SecteurActivite.cs" />
+    <Compile Include="Parametre\SecteursBiologique.cs" />
+    <Compile Include="Parametre\Societe.cs" />
+    <Compile Include="Parametre\TrancheAgePatient.cs" />
+    <Compile Include="Parametre\TypePrelevement.cs" />
+    <Compile Include="Parametre\TypeTube.cs" />
+    <Compile Include="Parametre\UniteMesure.cs" />
+    <Compile Include="Parametre\ValeurNormal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LGC.DataAccess\LGC.DataAccess.csproj">
+      <Project>{36ae4ee0-f2b7-4fba-a67a-9b53bfc4f8ba}</Project>
+      <Name>LGC.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

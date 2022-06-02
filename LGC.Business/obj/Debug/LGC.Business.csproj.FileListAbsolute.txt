@@ -1,0 +1,56 @@
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.Business\bin\Debug\LGG.Business.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.Business\bin\Debug\LGG.Business.pdb
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.Business\obj\Debug\LGG.Business.csprojResolveAssemblyReference.cache
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.Business\obj\Debug\LGG.Business.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.Business\obj\Debug\LGG.Business.pdb
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.Business\bin\Debug\LGG.DataAccess.dll
+c:\users\romas\documents\visual studio 2013\Projects\GESCOMPTA\LGG.Business\bin\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.Business\obj\Debug\LGG.Business.csprojResolveAssemblyReference.cache
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.Business\obj\Debug\LGG.Business.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.Business\bin\Debug\LGG.Business.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.Business\bin\Debug\LGG.Business.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.Business\bin\Debug\LGG.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.Business\bin\Debug\LGG.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESCOMPTA\LGG.Business\obj\Debug\LGG.Business.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.Business.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.Business.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\obj\Debug\LGC.Business.dll
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\obj\Debug\LGC.Business.pdb
+E:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\obj\Debug\LGC.Business.csprojResolveAssemblyReference.cache
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.Business.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.Business.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.pdb
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\obj\Debug\LGC.Business.csprojResolveAssemblyReference.cache
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\obj\Debug\LGC.Business.dll
+D:\FORMATION BOURSE\TACHE ET PROJET GESLAB\En cours\GESLAB\LGC.Business\obj\Debug\LGC.Business.pdb
+G:\GESLAB\LGC.Business\bin\Debug\LGC.Business.dll
+G:\GESLAB\LGC.Business\bin\Debug\LGC.Business.pdb
+G:\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.dll
+G:\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.pdb
+G:\GESLAB\LGC.Business\obj\Debug\LGC.Business.csprojResolveAssemblyReference.cache
+G:\GESLAB\LGC.Business\obj\Debug\LGC.Business.dll
+G:\GESLAB\LGC.Business\obj\Debug\LGC.Business.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.Business.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.Business.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.pdb
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.csprojResolveAssemblyReference.cache
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.dll
+E:\Mes Projets\pour delphin\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.Business.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.Business.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.csprojResolveAssemblyReference.cache
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.dll
+E:\PROJETS ROMAS\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.Business.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.Business.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.Business\bin\Debug\LGC.DataAccess.pdb
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.csprojResolveAssemblyReference.cache
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.dll
+E:\PROJETS ROMAS ET GED\PROJET GESLAB\GESLAB\LGC.Business\obj\Debug\LGC.Business.pdb
